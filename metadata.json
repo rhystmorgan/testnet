@@ -1,6 +1,7 @@
 {
   "name": "STOIC",
-  "description": "STOIC Testnet",
   "ticker": "STOIC",
-  "homepage": "https://stoicpool.com"
+  "description": "STOIC Testnet",
+  "homepage": "https://stoicpool.com",
+  "nonce": "1729420466"
 }
